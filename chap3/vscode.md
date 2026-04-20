@@ -107,8 +107,8 @@
 
 | 快捷键 | 功能 |
 |--------|------|
-| `Ctrl + `` ` | 打开/关闭终端 |
-| `Ctrl + Shift + `` ` | 新建终端 |
+| `` Ctrl + ` `` | 打开/关闭终端 |
+| `` Ctrl + Shift + ` `` | 新建终端 |
 | `Ctrl + Shift + 5` | 拆分终端 |
 
 ## 必备插件推荐
@@ -174,7 +174,12 @@
 
   // 终端
   "terminal.integrated.fontSize": 13,
-  "terminal.integrated.shell.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell"
+    }
+  },
 
   // 文件
   "files.autoSave": "afterDelay",
@@ -339,10 +344,14 @@ Ctrl + K Ctrl + F
 ```
 
 ### Q2：终端中文显示乱码
-**解决**：设置终端编码
-```json
-"terminal.integrated.charset": "utf-8"
+**解决**：在终端软件中设置编码为 UTF-8
+
+CMD 设置：
+```cmd
+chcp 65001
 ```
+
+PowerShell/Windows Terminal 通常默认 UTF-8，无需额外设置。
 
 ### Q3：Git 中文文件名乱码
 **解决**：在终端设置

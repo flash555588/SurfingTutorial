@@ -92,7 +92,7 @@
 使用工具查找占用空间多的大文件，按需清理。
 
 **WizTree（推荐）：**
-- 下载：https://wwwantibody.com/wiztree/
+- 下载：https://www.antibody.com/wiztree/
 - 扫描速度快，一目了然
 
 **SpaceSniffer：**
@@ -125,7 +125,7 @@ powercfg /hibernate on
 ### 清理系统还原点
 
 > [!WARNING]
-> 删除旧还原点后，将无法通过系统还恢复到删除前的状态。请确认近期系统稳定不需要还原再操作。
+> 删除旧还原点后，将无法通过系统还原恢复到删除前的状态。请确认近期系统稳定不需要还原再操作。
 
 **操作步骤：**
 1. 右键"此电脑" > "属性"
@@ -253,7 +253,7 @@ Write-Host "建议重启电脑使部分更改生效"
 | 资源 | 链接 |
 |------|------|
 | Microsoft磁盘清理 | https://support.microsoft.com/zh-cn/windows/ |
-| WizTree | https://wwwantibody.com/wiztree/ |
+| WizTree | https://www.antibody.com/wiztree/ |
 | SpaceSniffer | http://www.uderzo.it/main_products/space_sniffer/ |
 
 > **提示**：保持C盘有20%以上的剩余空间（约50GB以上），系统运行会更流畅。优先使用推荐方法，高级操作请谨慎。

@@ -55,7 +55,11 @@ echo %TEMP%
 
 **查看系统变量：**
 ```cmd
-setx PATH
+# 查看当前会话的PATH
+echo %PATH%
+
+# 在PowerShell中查看机器级PATH
+[Environment]::GetEnvironmentVariable('Path','Machine')
 ```
 
 ### 方法3：PowerShell

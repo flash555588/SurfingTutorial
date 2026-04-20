@@ -91,7 +91,7 @@
 | QQ输入法 | 简洁较少广告 | https://shurufa.qq.com/ |
 | 百度输入法 | 功能丰富 | https://shuru.baidu.com/ |
 | 小鹤输入法 | 纯净双拼 | https://flypy.com/ |
-| 讯飞输入法 | 语音强大 | https://rime.im/ |
+| 讯飞输入法 | 语音强大 | https://srf.xunfei.cn/ |
 
 ### macOS 平台
 
