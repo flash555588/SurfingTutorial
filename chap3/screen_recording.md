@@ -50,7 +50,7 @@
 * **类型**：商业软件
 * **优点**：自带编辑器、适合制作教程
 * **缺点**：价格较高
-* **下载地址**：https://www.camtasias.com/
+* **下载地址**：https://www.camtasia.com/
 
 #### ShareX
 ![ShareX 界面](../img/chap3_sharex.png)
