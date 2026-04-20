@@ -1,5 +1,6 @@
-> ⚠️ 本项目目前已缺乏维护，内容可能不再更新。推荐大家参考 [AcWiKi](https://github.com/Ac-Wiki/AcWiKi) 项目，获取更全面和持续更新的计算机与互联网自学资料。
 # SurfingTutorial
+
+> ⚠️ 本项目目前已缺乏维护，内容可能不再更新。推荐大家参考 [AcWiKi](https://github.com/Ac-Wiki/AcWiKi) 项目，获取更全面和持续更新的计算机与互联网自学资料。
 
 本教程是给新大学生的网上冲浪和计算机使用教程。
 
@@ -29,7 +30,7 @@
 
 ### 电脑的选购 与 安装
 
-关于这个问题在BiliBili上已经有很多作者制作了大量视频，请直接在B站搜索“电脑选购”
+关于这个问题在BiliBili上已经有很多作者制作了大量视频，请直接在B站搜索"电脑选购"
 
 * [内存和硬盘的区别](chap1/ram_disk.md)
 * [装机教程(视频教程)](https://www.bilibili.com/video/av818609247/)
@@ -81,14 +82,12 @@
 
 [tvvocold/How-To-Ask-Questions-The-Smart-Way: How To Ask Questions The Smart Way 《提问的智慧》中文版 (github.com)](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 
-
 ### BIOS(UEFI)的基本配置
 
 这里不会介绍超频设置，各种网站上的教程比我懂。同时也不会介绍不常用的配置，很少有情况需要更改这里的配置
 
 1. 打开虚拟化
-1. [打开XMP](chap4/XMP.md)
-
+2. [打开XMP](chap4/XMP.md)
 
 ## 其他
 

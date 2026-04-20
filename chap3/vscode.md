@@ -5,12 +5,12 @@
 **Visual Studio Code（简称 VS Code）** 是微软开发的免费开源代码编辑器，支持 Windows、macOS、Linux 系统。
 
 **为什么选择 VS Code：**
-- 免费开源，无需破解
-- 启动快速，资源占用低
-- 插件丰富，可扩展性强
-- 智能代码补全（IntelliSense）
-- 内置 Git 版本控制
-- 调试功能强大
+* 免费开源，不用破解
+* 启动快，占用少
+* 插件贼多，想装啥装啥
+* 代码补全智能（IntelliSense）
+* 内置 Git 版本控制
+* 调试功能强大
 
 **官网**：https://code.visualstudio.com/
 
@@ -21,8 +21,8 @@
 1. 访问 https://code.visualstudio.com/Download
 2. 下载 Windows 版本安装包
 3. 安装时建议勾选：
-   - "添加到 PATH"
-   - "通过 Code 打开"右键菜单
+   * "添加到 PATH"
+   * "通过 Code 打开"右键菜单
 
 ### 主题设置
 
@@ -101,7 +101,7 @@
 | `Alt + Click` | 添加光标 |
 | `Ctrl + Alt + ↑/↓` | 上下添加光标 |
 | `Ctrl + U` | 撤销上一个光标 |
-| `Ctrl + Shift + I` | 在行尾添加光标 |
+| `Ctrl + Shift + i` | 在行尾添加光标 |
 
 ### 终端
 
@@ -221,9 +221,9 @@
 
 ### GitLens 增强功能
 
-- 每行代码显示最后修改人和时间
-- 点击可查看完整 commit 历史
-- 强大的比较视图
+* 每行代码显示最后修改人和时间
+* 点击可查看完整 commit 历史
+* 强大的比较视图
 
 ## 调试功能
 
@@ -246,9 +246,9 @@
 
 ### 调试控制台
 
-- **调试控制台**：`Ctrl + Shift + Y`
-- 查看变量值
-- 执行表达式
+* **调试控制台**：`Ctrl + Shift + Y`
+* 查看变量值
+* 执行表达式
 
 ## 集成终端
 
@@ -321,9 +321,9 @@ Ctrl + Shift + P
 
 ### 4. 多点编辑
 
-- `Ctrl + Shift + L` 选中所有相同词
-- `Ctrl + F2` 选中所有相同词并进入编辑
-- `Alt + Click` 添加多个光标
+* `Ctrl + Shift + L` 选中所有相同词
+* `Ctrl + F2` 选中所有相同词并进入编辑
+* `Alt + Click` 添加多个光标
 
 ### 5. 代码格式化
 
@@ -361,9 +361,9 @@ git config --global core.quotepath false
 
 ### Q4：插件安装失败
 **解决**：
-- 检查网络连接
-- 尝试设置代理
-- 重启 VS Code
+* 检查网络连接
+* 尝试设置代理
+* 重启 VS Code
 
 ## 参考资源
 
