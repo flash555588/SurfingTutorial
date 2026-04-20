@@ -27,7 +27,7 @@ graph LR
   - 程序频繁卡顿
   - 浏览器标签页崩溃
   - 出现"内存不足"警告
-- 2023年推荐配置：
+- 2026年推荐配置：
   - 基础办公：8GB
   - 游戏/设计：16-32GB
   - 专业工作站：64GB+
@@ -112,10 +112,12 @@ sequenceDiagram
    - QLC SSD大容量普及
    - 云存储无缝集成
 
-> **终极提示**：2023年新机组装**务必选择SSD作为系统盘**，机械硬盘仅适合冷数据存储。内存配置不应低于16GB以保证未来3-5年的使用需求。
+> **终极提示**：2026年新机组装**务必选择SSD作为系统盘**，机械硬盘仅适合冷数据存储。内存配置不应低于16GB以保证未来3-5年的使用需求。
 
 # 参考
 - [内存技术发展白皮书](https://www.jedec.org/dram)
 - [SSD vs HDD性能对比](https://www.storagereview.com/review/comparison)
 - [数据恢复原理](https://www.ntfs.com/data-recovery.htm)
 - [3-2-1备份法则](https://www.backblaze.com/blog/the-3-2-1-backup-strategy/)
+
+---
