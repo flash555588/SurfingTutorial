@@ -26,11 +26,7 @@ windows的默认全屏截图是键盘上的`PrtSc`这个按键，按下这个键
 
 `Win+Shift+S`
 
-效果如下图
-
-
-
-![image-20220726192455964](../img/chap3_screenhot_windows.png)
+按下后屏幕会变暗，可以使用鼠标框选区域进行截图，截图会自动保存到剪贴板。
 
 
 
@@ -48,7 +44,7 @@ windows的默认全屏截图是键盘上的`PrtSc`这个按键，按下这个键
 
 图：
 
-![](../img/chap3_snipaste_screenshot.png)
+![Snipaste界面](../img/chap3_snipaste_screenshot.png)
 
 
 

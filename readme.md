@@ -1,4 +1,3 @@
-> ⚠️ 本项目目前已缺乏维护，内容可能不再更新。推荐大家参考 [AcWiKi](https://github.com/Ac-Wiki/AcWiKi) 项目，获取更全面和持续更新的计算机与互联网自学资料。
 # SurfingTutorial
 
 本教程是给新大学生的网上冲浪和计算机使用教程。
@@ -43,7 +42,7 @@
 * [浏览器的插件推荐](chap2/browser_plugins_recommend.md)
 * [我需要杀毒软件吗](chap2/antivirus.md)
 * [使用BT](chap2/To_be_BT_master.md)
-* 开发者工具的一些简单操作
+* [开发者工具的一些简单操作](chap2/developer_tools.md)
 
 ### Windows操作系统的使用
 
@@ -52,16 +51,14 @@
 * [截图的N种方式](chap3/screenshot_ways.md)
 * [文件的属性](chap3/file_attributes.md)
 * [压缩包](chap3/unzip.md)
-* Windows网络设置
-* 环境变量
-* CMD和PowerShell
-* 用户和锁屏密码
-* 文件搜索
-* 压缩软件
+* [Windows网络设置](chap3/windows_network.md)
+* [环境变量](chap3/environment_variables.md)
+* [CMD和PowerShell](chap3/cmd_powershell.md)
+* [用户和锁屏密码](chap3/user_accounts.md)
+* [文件搜索](chap3/file_search.md)
 * [硬盘的分区](chap3/windows_disk.md)
-* 管理硬盘空间 
-* 软件卸载
-* 清理C盘
+* [管理硬盘空间与清理C盘](chap3/disk_space_management.md)
+* [软件卸载](chap3/software_uninstall.md)
 
 ### 编程语言的学习
 
